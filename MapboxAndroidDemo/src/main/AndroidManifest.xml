@@ -118,7 +118,7 @@
                 android:value="com.mapbox.mapboxandroiddemo.MainActivity" />
         </activity>
         <activity
-            android:name=".labs.SnakingDirectionsRouteActivity"
+            android:name=".examples.dds.SnakingDirectionsRouteActivity"
             android:label="@string/activity_labs_snaking_directions_route_title">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
